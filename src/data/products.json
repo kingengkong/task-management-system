@@ -1,0 +1,5 @@
+[
+  { "id": 1, "name": "Kaos Polos Putih", "price": 75000, "image": "https://via.placeholder.com/200" },
+  { "id": 2, "name": "Celana Jeans", "price": 120000, "image": "https://via.placeholder.com/200" },
+  { "id": 3, "name": "Sepatu Sneakers", "price": 230000, "image": "https://via.placeholder.com/200" }
+]
